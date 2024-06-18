@@ -1,0 +1,33 @@
+body {
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+p {
+  color: darkslategray;
+}
+
+img {
+  width: 400;
+  height: auto;
+}
+
+.recipe-list {
+  background-color: yellow;
+}
+
+.ingredients {
+  background-color: aquamarine;
+}
+
+.directions {
+  background-color: lightcoral;
+}
